@@ -1,5 +1,5 @@
 # Leveraging-AI-To-Automate-MLB-Roster-Construction-IPHS391-
 The data and code used for the project "Leveraging AI To Automate MLB Roster Construction; Using High Fidelity Synthetic Data To Optimize Team Performance"
 
-Abstract
+Abstract:
 This project utilizes artificial intelligence chatbots to generate high-fidelity synthetic data for Major League Baseball hitters and their statistics over a season. The AI evaluates each player based on a five-tool scale, comparing their abilities to one another. Finally, optimization techniques are applied to select an optimal baseball team of thirteen players, maximizing overall performance while adhering to a specified salary cap. The operating hypothesis is that artificial intelligence can effectively generate high-fidelity synthetic data for baseball hitters and evaluate player performance based on a five-tool scale, given a large influx of data. By applying optimization techniques, it is possible to construct a competitive baseball team that maximizes overall performance while staying within a given salary cap, mirroring real-world decision-making in sports management.
